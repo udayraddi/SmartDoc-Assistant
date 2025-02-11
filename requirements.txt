@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+langchain
+langsmith
+langchain-huggingface
+langchain-groq
+qdrant-client
+langchain-qdrant
+langchain-core
+langchain-community
+unstructured
+nltk
+sentence-transformers
+huggingface-hub
+matplotlib
+pandas
